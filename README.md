@@ -1,4 +1,4 @@
-<a><img height="30" src="https://github.com/jeffjongyoon/jeffjongyoon/blob/master/icon/data.jpg?raw=true"></a>
+<a><src="https://github.com/jeffjongyoon/jeffjongyoon/blob/master/icon/data.jpg?raw=true"></a>
 
 
 ### Jongyoon Sohn
