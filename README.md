@@ -1,5 +1,6 @@
-<a><img height=300 src="https://github.com/jeffjongyoon/jeffjongyoon/blob/master/icon/data.jpg?raw=true"></a>
-
+<p align='center'>
+<a><img height=500 width=800 src="https://github.com/jeffjongyoon/jeffjongyoon/blob/master/icon/data.jpg?raw=true"></a>
+</p>
 
 ### 👋🏻 Jongyoon Sohn
 
