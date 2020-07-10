@@ -1,9 +1,9 @@
-<a><img src="https://github.com/jeffjongyoon/jeffjongyoon/blob/master/icon/data.jpg?raw=true"></a>
+<a><img height=1000 src="https://github.com/jeffjongyoon/jeffjongyoon/blob/master/icon/data.jpg?raw=true"></a>
 
 
-### Jongyoon Sohn
+### 👋🏻 Jongyoon Sohn
 
-Hi there 👋 I'm a quantitative developer/analyst playing with stock trends and automated stock applications. I also have been working on projects with machine learning and deep learning algorithms in order to make a better classifier than yesterday's.
+I'm a quantitative developer/analyst playing with stock trends and automated stock applications. I also have been working on projects with machine learning and deep learning algorithms in order to make a better classifier than yesterday's.
 
 
 ### 📫 How to reach me
