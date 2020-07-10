@@ -1,4 +1,4 @@
-<a><src="https://github.com/jeffjongyoon/jeffjongyoon/blob/master/icon/data.jpg?raw=true"></a>
+<a><img src="https://github.com/jeffjongyoon/jeffjongyoon/blob/master/icon/data.jpg?raw=true"></a>
 
 
 ### Jongyoon Sohn
@@ -26,9 +26,6 @@ Hi there 👋 I'm a quantitative developer/analyst analyzing stock trends and de
 - linkedin: https://www.linkedin.com/in/joenewnee/
 - email: jysohn0104@gmail.com
 <p align='center'>
-<a href="https://dev.to/waylonwalker"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/master/icon/dev.png"></a>&nbsp;&nbsp;
-<a href="https://twitter/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram/waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/by-me-a-coffee.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/joenewnee/"><img height="30" src="https://github.com/jeffjongyoon/jeffjongyoon/blob/master/icon/linkedin.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/joenewnee/"><img height="30" src="https://github.com/jeffjongyoon/jeffjongyoon/blob/master/icon/linkedin.png?raw=true"></a>
 </p>
